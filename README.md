@@ -32,7 +32,7 @@ Playwright library
    npm install
 
 3. Installs browsers:
-   npx playwright install` 
+   npx playwright install 
 
 
 **Running Tests**
