@@ -26,10 +26,14 @@ Playwright library
 
 **Setup & Execution**
 1. Clone the repository:
-   git clone git@github.com:dilshara98/eBay-Assignment.git
+   git clone https://github.com/dilshara98/eBay-Assignment.git
    
 2. Install dependencies:
    npm install
+
+3. Installs browsers:
+   npx playwright install` 
+
 
 **Running Tests**
 
@@ -40,5 +44,9 @@ npx playwright test
 
 Run all tests with ui: 
 npx playwright test --ui
+
+View Test Report:
+npx playwright show-report
+  
 
 
